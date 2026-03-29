@@ -14,7 +14,7 @@ DB_CONFIG = {
     "port":     5432,
     "dbname":   "weather_db",
     "user":     "postgres",
-    "password": "root",
+    "password": "",
 }
 
 @st.cache_data(ttl=900)
