@@ -80,8 +80,8 @@ This pipeline demonstrates how real-time, location-specific insights can support
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Sushmeet-Singh/Automated-Weather-ETL-Pipeline.git
+cd Automated-Weather-ETL-Pipeline
 pip install -r requirements.txt
 ```
 
@@ -94,4 +94,4 @@ python main.py
 
 
 ## Run the Dashboard
-streamlit run app.py
+python -m streamlit run dashboard.py
